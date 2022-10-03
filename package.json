@@ -1,0 +1,21 @@
+{
+  "name": "iron-man",
+  "displayName": "iron-man",
+  "description": "A VSCODE Theme for Iron-Man Fans.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "iron-man",
+        "uiTheme": "vs-dark",
+        "path": "./themes/iron-man-color-theme.json"
+      }
+    ]
+  }
+}
