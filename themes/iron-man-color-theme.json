@@ -3,7 +3,7 @@
 	"colors": {
 		"editor.background": "#3c4974af",
 		"editor.foreground": "#046ee7",
-		"activityBarBadge.background": "#007acc",
+		"activityBarBadge.background": "#d1c062",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
