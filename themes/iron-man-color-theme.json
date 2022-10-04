@@ -1,8 +1,8 @@
 {
 	"name": "iron-man",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
+		"editor.background": "#3c4974af",
+		"editor.foreground": "#046ee7",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
